@@ -1,7 +1,7 @@
 # Community You Only Look Once
 
 ## Infrastructure Setup
-```
+```bash
 cd architecture/envs/prod
 terraform init
 terraform apply -auto-approve
